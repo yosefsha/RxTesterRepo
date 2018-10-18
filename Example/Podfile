@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyRxTester_Tests' do
+  pod 'MyRxTester', :path => '../'
+  
+  
+end
