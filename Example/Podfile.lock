@@ -1,0 +1,16 @@
+PODS:
+  - MyRxTester (0.1.0)
+
+DEPENDENCIES:
+  - MyRxTester (from `../`)
+
+EXTERNAL SOURCES:
+  MyRxTester:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyRxTester: bfc719e4311636532a948c6330aab69de06c5831
+
+PODFILE CHECKSUM: 1380adc7280d11f42a89c6d85cf50b2f9ba18159
+
+COCOAPODS: 1.5.3

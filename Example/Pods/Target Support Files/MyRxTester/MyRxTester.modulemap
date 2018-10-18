@@ -1,0 +1,6 @@
+framework module MyRxTester {
+  umbrella header "MyRxTester-umbrella.h"
+
+  export *
+  module * { export * }
+}
